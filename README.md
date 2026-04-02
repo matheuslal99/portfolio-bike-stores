@@ -6,4 +6,4 @@ Repositório com projetos de análise de dados desenvolvidos por **Matheus Lemos
 
 | Projeto | Ferramentas | Status |
 |---------|------------|--------|
-| [Análise de Vendas — Bike Stores](./bike-stores/README.md) | SQL Server | Concluído |
+| [Análise de Vendas — Bike Stores](./bike-stores/README.md) | SQL Server + Power BI | ✅ Concluído |
