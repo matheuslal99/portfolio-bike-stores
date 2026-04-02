@@ -2,7 +2,7 @@
 
 Projeto completo de análise de dados utilizando o banco de dados **Bike Stores**, cobrindo desde a verificação de qualidade dos dados em SQL Server até a construção de um dashboard interativo no Power BI. O banco contempla pedidos de 2009 a 2019, com volume expressivo concentrado entre 2009 e 2011 — período que representa mais de 97% das transações e onde os principais insights foram identificados.
 
-> 🎮 A identidade visual do dashboard foi inspirada nos clássicos jogos de GBA — Pokémon Rubi, Safira e Esmeralda — com uma paleta de cores que remete às paisagens e à trilha sonora alegre das aventuras de bike pelos mapas do jogo.
+> 🎮 A identidade visual do dashboard foi inspirada nos clássicos jogos de GBA — Pokémon Ruby, Sapphire e Emerald — com uma paleta de cores que remete às paisagens e à trilha sonora alegre das aventuras de bike pelos mapas do jogo.
 
 ---
 
